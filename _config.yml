@@ -5,7 +5,7 @@ author: leongu
 email: leongu2003@foxmail.com
 description: "This is my blog" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "blog, leongu, programmer"
-baseurl: "index.html" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leongu-tc.github.io/" # the base hostname & protocol for your site
 locale: en_US
 
